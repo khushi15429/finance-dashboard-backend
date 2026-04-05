@@ -259,5 +259,6 @@ finance_dashboard/
 
 ## Author
 
-Built as a backend assessment project demonstrating API design,
-role-based access control, and data modeling with Django REST Framework.
+Built as a backend assessment project to demonstrate scalable API design,
+clean architecture, role-based access control, and real-world data handling
+using Django REST Framework.
