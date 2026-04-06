@@ -200,7 +200,7 @@ Server runs at: `http://127.0.0.1:8000/`
 
 You can test all APIs using this Postman collection:
 
-[Postman Collection Link](https://www.postman.com/your-link)
+[Postman Collection Link](https://www.postman.com/bhawsarkhushi2004-4200414/workspace/khushi-bhawsar-s-workspace/collection/53772101-b8f25f4a-c260-4c6b-aba1-967d44ec4108?action=share&creator=53772101)
 
 ---
 
